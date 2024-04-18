@@ -1,11 +1,25 @@
-<h1 align="center">Hello There</h1>
-<h3>
-I am a freshly graduated software engineer who is eager to find a job where I could use my skills and develop new ones. I graduated in June with 2:1, and I’m currently looking for jobs in the UK and Poland. 
-</h3>
-<h3>
-In my graduate studies at Solent University, I had many various opportunities to develop further skills, such as working in a team, meeting a deadline and the quality of the code. 
-</h3>
-<h3>In my studies I learned new technologies with some frameworks such as : </h3>
-<h4>Python - Flask, NumPy, Pandas, Beautiful Soup 4</h3>
-<h4>JavaScript - Node.js, API </h4>
-<h4>Java- OOD, Junit Testing </h4>
+# Hello There
+
+### About Me
+I am a freshly graduated software engineer eager to contribute my skills and continue learning in a dynamic work environment. Graduated with a 2:1 from Solent University in June, I am actively seeking opportunities in both the UK and Poland.
+
+### Experience and Skills
+During my time at Solent University, I gained valuable experience in various aspects of software engineering:
+- **Team Collaboration:** Worked effectively in team settings, ensuring projects were completed on time and to a high standard.
+- **Deadline Management:** Successfully met project deadlines, demonstrating strong time management skills.
+- **Code Quality:** Prioritized clean and maintainable code practices, contributing to the overall quality of projects.
+
+### Technologies
+I have hands-on experience with a range of technologies and frameworks, including:
+- **Python:** Proficient in Flask for web development, and skilled in using libraries such as NumPy, Pandas, and Beautiful Soup 4 for data manipulation and web scraping.
+- **JavaScript:** Experienced in Node.js for server-side scripting and working with APIs.
+- **Java:** Knowledgeable in object-oriented design principles and proficient in JUnit testing.
+
+### Recent Additions
+I have recently expanded my skill set to include:
+- **Web Scraping:** Proficient in using Python for web scraping tasks, extracting valuable data from websites efficiently.
+- **Automation:** Skilled in developing automation scripts using Python to streamline repetitive tasks and enhance productivity.
+
+I am passionate about leveraging technology to solve real-world problems and look forward to contributing to innovative projects.
+
+
