@@ -1,25 +1,39 @@
-# Hello There
+<h1>Hello There! 👋</h1>
 
-### About Me
-I am a freshly graduated software engineer eager to contribute my skills and continue learning in a dynamic work environment. Graduated with a 2:1 from Solent University in June, I am actively seeking opportunities in both the UK and Poland.
+<h2>About Me</h2>
+<p>
+  I am a recent graduate in software engineering 🎓 with a passion for technology and problem-solving. I earned a 2:1 from Solent University in June and am excited to embark on my professional journey. I am currently seeking opportunities in both the UK 🇬🇧 and Poland 🇵🇱, where I can apply my skills in a vibrant and innovative environment.
+</p>
 
-### Experience and Skills
-During my time at Solent University, I gained valuable experience in various aspects of software engineering:
-- **Team Collaboration:** Worked effectively in team settings, ensuring projects were completed on time and to a high standard.
-- **Deadline Management:** Successfully met project deadlines, demonstrating strong time management skills.
-- **Code Quality:** Prioritized clean and maintainable code practices, contributing to the overall quality of projects.
+<h2>Experience and Skills</h2>
+<p>
+  Throughout my time at Solent University, I cultivated a strong foundation in software engineering, honing skills that are crucial for success in the tech industry:
+</p>
+<ul>
+  <li><strong>Collaborative Spirit:</strong> 🤝 Thrived in team settings, fostering open communication and ensuring projects were delivered on time and with exceptional quality.</li>
+  <li><strong>Time Management:</strong> ⏰ Demonstrated the ability to juggle multiple deadlines effectively, prioritizing tasks to meet project goals.</li>
+  <li><strong>Commitment to Quality:</strong> 🧹 Focused on writing clean, maintainable code, contributing to the overall integrity and performance of projects.</li>
+</ul>
 
-### Technologies
-I have hands-on experience with a range of technologies and frameworks, including:
-- **Python:** Proficient in Flask for web development, and skilled in using libraries such as NumPy, Pandas, and Beautiful Soup 4 for data manipulation and web scraping.
-- **JavaScript:** Experienced in Node.js for server-side scripting and working with APIs.
-- **Java:** Knowledgeable in object-oriented design principles and proficient in JUnit testing.
+<h2>Technologies</h2>
+<p>
+  I bring hands-on experience with a diverse set of technologies and frameworks, including:
+</p>
+<ul>
+  <li><strong>Python:</strong> 🐍 Proficient in using Flask for web development and skilled with libraries like NumPy, Pandas, and Beautiful Soup 4 for data manipulation and web scraping.</li>
+  <li><strong>JavaScript:</strong> 🌐 Experienced in Node.js for server-side scripting and API integration.</li>
+  <li><strong>Java:</strong> ☕ Knowledgeable in object-oriented design principles with a strong background in JUnit testing.</li>
+</ul>
 
-### Recent Additions
-I have recently expanded my skill set to include:
-- **Web Scraping:** Proficient in using Python for web scraping tasks, extracting valuable data from websites efficiently.
-- **Automation:** Skilled in developing automation scripts using Python to streamline repetitive tasks and enhance productivity.
+<h2>Recent Additions</h2>
+<p>
+  I’ve recently expanded my toolkit to include:
+</p>
+<ul>
+  <li><strong>Web Scraping:</strong> 📊 Expertise in utilizing Python for efficient data extraction from various websites.</li>
+  <li><strong>Automation:</strong> ⚙️ Developed automation scripts using Python to optimize repetitive tasks, enhancing overall productivity.</li>
+</ul>
 
-I am passionate about leveraging technology to solve real-world problems and look forward to contributing to innovative projects.
-
-
+<p>
+  I am driven by a desire to leverage technology to tackle real-world challenges and am eager to contribute to innovative projects that make a difference. 🚀
+</p>
